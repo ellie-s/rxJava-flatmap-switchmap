@@ -12,7 +12,7 @@ import org.junit.Before
 import org.junit.Test
 import java.util.concurrent.TimeUnit.SECONDS
 
-class MainFlatMapViewModelTest {
+class FlatMapSwitchMapTest {
 
     private val imageRepository = mock<ImageRepository>()
     private val flatMapViewModel = MainFlatMapViewModel(imageRepository)
