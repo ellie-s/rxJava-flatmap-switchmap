@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SwitchMapApp</string>
+    <string name="banana">Banana</string>
+    <string name="orange">Orange</string>
+    <string name="apple">Apple</string>
+</resources>
